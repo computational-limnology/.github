@@ -22,7 +22,7 @@ To advance aquatic ecosystem modelling, we integrate **model theory** (developin
 
 :crystal_ball: Developing a modular compositional learning framework to integrate deep learning into a vertical, one-dimensional process-based model for simulating ecosystem dynamics
 
-:earth_americas: Upscaling a spatiotemporal metabolism model to couple gross primary production with carbon sequestration across spatial and temporal scales
+:earth_americas: Upscaling a spatiotemporal metabolism model to couple gross primary production with carbon sequestration across spatio-temporal scales
 
 :busts_in_silhouette: Building a software framework to faciliate setting up, running and post-processing an ensemble of aquatic ecosystem models for structural model-intercomparison
 
