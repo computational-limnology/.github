@@ -1,6 +1,6 @@
 # Aquatic Ecosystem Modeling
 
-<a href="url"><img src="nextgenmodeling-webpage.png" align="right" height="520" width="320" ></a>
+
 
 -----
 
