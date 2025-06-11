@@ -15,11 +15,11 @@ To advance aquatic ecosystem modelling, we integrate **model theory** (developin
 
 Our current focus areas are
 
-:chart_with_upwards_trend: **Aquatic Ecosystem Modeling** by [Robert](mailto:rladwig@ecos.au.dk)
+:chart_with_upwards_trend: **Aquatic Ecosystem Modeling** by [Robert Ladwig](mailto:rladwig@ecos.au.dk)
 
 and 
 
-:globe_with_meridians: **Landscape Limnology** by [Tuba](mailto:tbo@ecos.au.dk)
+:globe_with_meridians: **Landscape Limnology** by [Tuba Bucak](mailto:tbo@ecos.au.dk)
 
 ## Projects
 
