@@ -21,6 +21,8 @@ and
 
 :globe_with_meridians: **Landscape Limnology** by [Tuba Bucak](mailto:tbo@ecos.au.dk)
 
+As the Computational Limnology team at Aarhus University, we address limnological questions using a plethora of methods, ranging from simple toy models, to data-driven approaches, and up to complex numerical models. We are also conducting field measurements and long-term monitoring to better capture ecosystems processes on multiple time scales. To complement our research, we work closely across sections to explore lake water quality dynamics, biodiversity changes, metabolism, and carbon cycling.
+
 ## Projects
 
 
