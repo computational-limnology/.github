@@ -22,6 +22,14 @@ and
 
 :globe_with_meridians: **Landscape Limnology** by [Tuba Bucak](mailto:tbo@ecos.au.dk)
 
+Current team members:
+
+- [Tuba Bucak](https://www.au.dk/en/tbo@ecos.au.dk/) (Tenure-Track Assistant Professor)
+- [Robert Ladwig](https://www.au.dk/en/rladwig@ecos.au.dk/) (Tenure-Track Assistant Professor)
+- [Lipa Gutani Terrence Nkwalale](https://www.ufz.de/index.php?en=37333) (PhD student, co-supervised by Robert)
+- [Marthin Pedersen](https://www.au.dk/mp@ecos.au.dk/) (Development Engineer)
+- [Tom Davidson](https://www.au.dk/thd@ecos.au.dk/) (Professor)
+
 As the Computational Limnology team at Aarhus University, we address limnological questions using a plethora of methods, ranging from simple toy models, to data-driven approaches, and up to complex numerical models. We are also conducting field measurements and long-term monitoring to better capture ecosystems processes on multiple time scales. To complement our research, we work closely across sections to explore lake water quality dynamics, biodiversity changes, metabolism, and carbon cycling.
 
 ## Projects
