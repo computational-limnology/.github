@@ -20,7 +20,7 @@ Our current focus areas are
 
 and 
 
-:globe_with_meridians: **Landscape Limnology** by [Tuba Bucak](mailto:tbo@ecos.au.dk)
+:globe_with_meridians: **Landscape Limnology** by [Tuba Bucak](mailto:tbo@ecos.au.dk): Exploring how spatial patterns and interactions between terrestrial and aquatic landscapes influence the ecological structure and functioning of aquatic ecosystems.
 
 Current team members:
 
