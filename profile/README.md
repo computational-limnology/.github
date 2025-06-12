@@ -16,7 +16,7 @@ To advance aquatic ecosystem modelling, we integrate **model theory** (developin
 
 Our current focus areas are
 
-:chart_with_upwards_trend: **Aquatic Ecosystem Modeling** by [Robert Ladwig](mailto:rladwig@ecos.au.dk)
+:chart_with_upwards_trend: **Aquatic Ecosystem Modeling** by [Robert Ladwig](mailto:rladwig@ecos.au.dk): Using mathematical or computational models to simulate the physical, chemical, biological, and ecological processes in aquatic ecosystemss. Focal points are physical limnology, aquatic metabolism, and Knowledge-Guided Machine Learning.
 
 and 
 
