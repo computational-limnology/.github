@@ -5,6 +5,7 @@
 -----
 
 👩‍💻 [Website](https://ecos.au.dk/en/researchconsultancy/research-areas/freshwater-ecology)  
+:paperclip: [Team documents and guidelines](https://github.com/computational-limnology/.github/wiki)
 
 
 -----
