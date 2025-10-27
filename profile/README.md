@@ -26,6 +26,7 @@ Current team members:
 
 - [Tuba Bucak](https://www.au.dk/en/tbo@ecos.au.dk/) (Tenure-Track Assistant Professor)
 - [Robert Ladwig](https://www.au.dk/en/rladwig@ecos.au.dk/) (Tenure-Track Assistant Professor)
+- [Ahmed Elhabashy](https://www.au.dk/en/elhabashy@ecos.au.dk/) (PhD student)
 - [Lipa Gutani Terrence Nkwalale](https://www.ufz.de/index.php?en=37333) (PhD student, co-supervised by Robert)
 - [Marthin Pedersen](https://www.au.dk/mp@ecos.au.dk/) (Development Engineer)
 - [Tom Davidson](https://www.au.dk/thd@ecos.au.dk/) (Professor)
