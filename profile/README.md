@@ -29,6 +29,7 @@ Current team members:
 - [Ahmed Elhabashy](https://www.au.dk/en/elhabashy@ecos.au.dk/) (PhD student)
 - [Lipa Gutani Terrence Nkwalale](https://www.ufz.de/index.php?en=37333) (PhD student, co-supervised by Robert)
 - [Marthin Pedersen](https://www.au.dk/mp@ecos.au.dk/) (Development Engineer)
+- [Dennis Hansen](https://www.au.dk/en/dennis.hansen@ecos.au.dk/) (Technician)
 - [Tom Davidson](https://www.au.dk/thd@ecos.au.dk/) (Professor)
 
 As the Computational Limnology team at Aarhus University, we address limnological questions using a plethora of methods, ranging from simple toy models, to data-driven approaches, and up to complex numerical models. We are also conducting field measurements and long-term monitoring to better capture ecosystems processes on multiple time scales. To complement our research, we work closely across sections to explore lake water quality dynamics, biodiversity changes, metabolism, and carbon cycling.
